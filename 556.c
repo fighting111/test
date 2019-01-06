@@ -2,7 +2,7 @@
 void main()
 {
 	int y,x,z;
-	printf("ÇëÊäÈëÈÕÆÚ£º");
+	printf("è¯·è¾“å…¥æ—¥æœŸï¼š");
 	
 	scanf("%d%d%d",&z,&y,&x); 
 	int t=z%100;
@@ -15,13 +15,13 @@ void main()
 	int he=w+u+r; 
 	switch(he%7)
 	{
-		case 1:printf("ĞÇÆÚ1",he);break;
-			case 2:printf("ĞÇÆÚ2",he);break;
-				case 3:printf("ĞÇÆÚ3",he);break;
-					case 4:printf("ĞÇÆÚ4",he);break;
-						case 5:printf("ĞÇÆÚ5",he);break;
-							case 6:printf("ĞÇÆÚ6",he);break;
-	default:printf("ĞÇÆÚÌì",he);break; 
+		case 1:printf("æ˜ŸæœŸ1",he);break;
+			case 2:printf("æ˜ŸæœŸ2",he);break;
+				case 3:printf("æ˜ŸæœŸ3",he);break;
+					case 4:printf("æ˜ŸæœŸ4",he);break;
+						case 5:printf("æ˜ŸæœŸ5",he);break;
+							case 6:printf("æ˜ŸæœŸ6",he);break;
+	default:printf("æ˜ŸæœŸå¤©",he);break; 
 	}
 	
 	 
