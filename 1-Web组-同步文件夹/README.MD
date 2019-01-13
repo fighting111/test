@@ -11,8 +11,8 @@
   
 0. 在GitHub的WEB组同步文件夹下创建一个自己文件夹,命名要求如:计科-1803-樊旭东做的前端页面保存在这里面!!!  
 具体文件夹如图
-![](https://i.imgur.com/okX3062.png)
-同时请不要忘记**Fetch**往项目中提交  
+![](https://i.imgur.com/okX3062.png)  
+同时,请不要忘记**Fetch**往项目中提交  
 ![](https://i.imgur.com/hhXhSOU.png)
   
 1. 将PSD设计图设计出的页面做成HTML.  
