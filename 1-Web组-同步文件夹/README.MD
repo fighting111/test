@@ -24,6 +24,6 @@
 
 ---
 [字体下载链接](http://www.zcool.com.cn/special/zcoolfonts/#secondPage "字体下载")  
-[Photoshop下载链接](https://baidu.com "baidu.com")
+[Photoshop下载链接](https://storage-2.trashink.tk/%E5%86%85%E9%83%A8%E6%96%87%E4%BB%B6/Trashink-Studio/%E5%AD%A6%E4%B9%A0/1-Web%E7%BB%84/ "ps下载")
 
   
