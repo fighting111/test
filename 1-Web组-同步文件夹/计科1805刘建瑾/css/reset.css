@@ -3,7 +3,7 @@
 	src:url(../fonts/站酷小薇LOGO体.otf);
 }
 
-body,div,img,p,form,input{
+body,div,img,p,form,ul{
 	margin: 0;
 	padding: 0;
     font-family:站酷小薇LOGO体; 

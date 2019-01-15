@@ -4,6 +4,7 @@ body{
 .public-container{
 	position: relative;
 	margin: 0 auto;
+	width: 2500px;
 }
 
 .public-header{
@@ -118,7 +119,7 @@ span{
 	height: 634px;
 }
 
-.remark-QQ,.remark-email{
+.remark-QQ a,.remark-email a{
     font-size: 80px;
     color: #fff;
 }
