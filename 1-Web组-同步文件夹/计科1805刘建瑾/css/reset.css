@@ -9,7 +9,7 @@ body,div,img,p,form,ul{
     font-family:站酷小薇LOGO体; 
 }
 
-*{/*第二种设置初始化方式*/
+*{/*第二种设置初始化方式 ..*/
 	margin: 0;
 	padding: 0;
 }
