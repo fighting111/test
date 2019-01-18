@@ -14,7 +14,9 @@
 > 其中个人文件夹名称请遵照示例文件夹格式来  
 
 #### 1.了解Java  
-如题  
+**在线**阅读下列教程  [阅读地址](https://storage-2.trashink.tk/%E5%86%85%E9%83%A8%E6%96%87%E4%BB%B6/Trashink-Studio/%E5%AD%A6%E4%B9%A0/3-App%E7%BB%84/)    
+![资料列表](https://i.imgur.com/fcuGRYh.png)
+
 
 熟悉其中内容及关联知识点，内部会议会以提问形式考核
 
