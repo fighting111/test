@@ -1,6 +1,13 @@
-###这不是一个MARKDOWN文件
+### 这是一个MARKDOWN文件
 
-**关于** md文件格式
+![](https://img.shields.io/github/issues/Search-For/test.svg)
+![](https://img.shields.io/github/forks/Search-For/test.svg)
+![](https://img.shields.io/github/stars/Search-For/test.svg)
+![](https://img.shields.io/github/license/Search-For/test.svg)
+![](https://img.shields.io/twitter/url/https/github.com/Search-For/test.svg?style=social)
+
+
+关于**md**文件格式
 >  Markdown是一种轻量级标记语言，创始人为约翰·格鲁伯（英语：John Gruber）。
 >  它允许人们“使用易读易写的纯文本格式编写文档，然后转换成有效的XHTML（或者HTML）
 >  文档”。这种语言吸收了很多在电子邮件中已有的纯文本标记的特性。
@@ -33,7 +40,7 @@ _Test_
 
 ~~删除线~~ <s>删除线（开启识别HTML标签时）</s>
 
-@pandao
+#### 普通代码
 
 
     <?php
@@ -82,8 +89,7 @@ var testBox = box();
 testBox.add("jQuery").remove("jQuery");
 ```
 
-#### HTML代码 HTML codes
-
+#### HTML代码
 ```html
 <!DOCTYPE html>
 <html>
@@ -209,15 +215,6 @@ Andrew->>China: I am good thanks!
 
 
 ---
-
-
-- SHA: a5c3785ed8d6a35868bc169f07e40e889087fd2e
-- User@SHA: jlord@a5c3785ed8d6a35868bc169f07e40e889087fd2e
-- User/Repository@SHA: jlord/sheetsee.js@a5c3785ed8d6a35868bc169f07e40e889087fd2e
-- #Num: #26
-- GH-Num: GH-26
-- User#Num: jlord#26
-- User/Repository#Num: jlord/sheetsee.js#26
 
 
 ### End
