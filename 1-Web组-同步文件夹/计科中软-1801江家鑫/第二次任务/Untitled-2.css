@@ -1,0 +1,80 @@
+@charset "utf-8";
+/* CSS Document */
+	*{margin:0;
+		padding: 0;		
+		}
+		.body{
+			text-align: center;
+		}	
+		#div{
+			width: 750px;
+			height: 470px;margin: 0 auto;position: relative;
+			overflow: hidden;
+		}
+		#div ul{
+			position: absolute;left: 0px;top: 0px;
+		}
+		#div ul li{
+			float: left;width: 750px;height: 470px;list-style: none;
+			margin-left: 10px;
+		}
+		#div1{
+			
+		font-size: 50px;
+		margin: 0 auto;			
+			width: 750px;
+			text-align: center;
+		}
+		#div1 p{
+			background:url("矩形 8.png");
+		}
+		#div2{
+			width: 750px;
+			vertical-align: middle;
+			margin:0 auto;
+		}
+		#div2 span{
+			width: 200px;
+		}
+		#div3{
+			width: 750px;
+			margin: 0 auto;
+			margin-top: 10px
+		}
+		#div3 div{
+			padding: 0;
+			margin-right: 30px;
+			float: left;
+			font-size: 20px;
+			line-height: 30px;
+		}
+		#div4{
+			background: url("矩形 7.png");
+			background-repeat: no-repeat;
+		}
+		.div5{
+			margin: 0 auto;
+			width: 750px;
+			float: left;
+			background: url("BG - Light.png");
+			
+		}
+		.div5 ul{
+			list-style-type: none;		
+		}
+		.div5 ul li{
+			float: left;
+			margin-left: 50px;
+			
+			margin-top: 30px;
+			padding-bottom: 30px;
+			text-align: center;
+			
+		}
+		#div5 ul li{
+			background-color;
+			transition: background-color 1 linear;
+		}
+		#div5 ul li:hover{
+			background-color: aqua;
+		}
