@@ -1,0 +1,155 @@
+*{
+	margin: 0;
+	padding: 0;
+}
+
+.container{
+	position: relative;
+	margin: 0 auto;
+	width: 750px;
+}
+
+.header-text{
+	width: 750px;
+	height: 6.7%;
+	color: #8e8e93;
+	background-color: #d2d2d2;
+    font-size: 3.4375rem;
+    text-align: center;
+}
+
+.carousel-swiper{
+	padding: 0;
+	margin: 0;
+	position: relative;
+}
+		
+.swiper-slide img{
+	width: 100%;
+	height: 35%;
+}
+
+.carousel-left{
+	width: 2.4%;
+	height: 2.4%;
+	position: absolute;
+	left: 6.1%;
+	top: 50%;
+	display: inline-block;
+}
+
+.carousel-right{
+	width: 2.4%;
+	height: 2.4%;
+	position: absolute;
+	right: 6.1%;
+	top: 50%;
+	display: inline-block;
+}
+
+.message{
+	width: 100%;
+	height: 4.6%;
+}
+
+.message img{
+	float: left;
+	display: inline-block;
+	width: 5.3%;
+	height: 2.0%;
+	margin-left: 4.7%;
+	margin-top: 1.0%;
+}
+
+.message-text{
+	float: left;
+	display: inline-block;
+	margin-left: 3.5%;
+	margin-top: 1.0%;
+	font-size: 1.6875rem;
+	color: #5bced8;
+	width: 86.5%;
+	height: 2.0%;
+}
+
+.message-hr{
+	width: 100%;
+	height: 0.4%;
+	background-color: #e8e6e6;
+}
+
+.schedule{
+	width: 750px;
+	height: 156px;
+    position: relative;
+}
+
+.schedule-img1{
+	float: left;
+	width: 88px;
+	margin-top: 35px;
+	margin-left: 35px;
+}
+
+.schedule-img2{
+	float: left;
+	width: 60px;
+	position: absolute;
+	top: 44px;
+	left: 48px;
+}
+
+.schedule-text{
+	font-size: 1.25rem;
+	color: #b4b4b4;
+	line-height: 30px;
+	float: left;
+	margin-top: 35px;
+	margin-left: 50px;
+}
+
+.schedule-text a{
+	color: #b4b4b4;
+}
+
+.schedule-img3{
+	float: right;
+	width: 36px;
+	margin-top: 54px;
+	margin-right: 22px;
+}
+
+.panel-border{
+	width: 100%;
+	height: 34.4%;
+	background-color: #efeff4;
+}
+
+.panel{
+	width: 100%;
+	height: 34.4%;
+	background-color: #efeff4;
+	align:center;
+	vertical-align: middle;
+	text-align: center;
+	margin-bottom: 3.8%;
+}
+
+.public-footer{
+	width: 750px;
+	height: 100px;
+	background-color: #f7f7f7;
+}
+
+.public-fooder li{
+	list-style: none;
+	float: left;
+	width: 44px;
+	height: 77px;
+	margin-right: 50px;
+	margin-left: 50px;
+}
+
+.public-fooder img{
+	border: 0;
+}

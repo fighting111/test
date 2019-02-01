@@ -1,0 +1,127 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1, minimum-scale=1, maximum-scale=1">
+	<link rel="stylesheet" href="swiper-4.4.6/dist/css/swiper.min.css">
+	<link rel="stylesheet" href="css/task2.css">
+	<title>Web第二次任务主页</title>
+</head>
+<body>
+	<div class="header-text container">
+		<p>屈行科技第二次任务目标</p>
+	</div>
+    <div class="banner container">
+    	<div class="carousel-swiper">
+			<div class="swiper-container swiper-container-horizontal">
+			    <div class="swiper-wrapper" style="transition-duration: 0ms; transform: translate3d(0px, 0px, 0px);">
+			        <div class="swiper-slide swiper-slide-active">
+						<img src="images/task2_img/轮播图01.png" alt="显示轮播图片1"/></div>
+			        <div class="swiper-slide swiper-slide-next">
+						<img src="images/task2_img/轮播图02.png" alt="显示轮播图片2"/></div>
+			        <div class="swiper-slide">
+						<img src="images/task2_img/轮播图03.png" alt="显示轮播图片3"/></div>
+			        <div class="swiper-slide">
+						<img src="images/task2_img/轮播图04.png" alt="显示轮播图片4"/></div>
+			        <div class="swiper-slide">
+						<img src="images/task2_img/轮播图05.png" alt="显示轮播图片5"/></div>
+			        <div class="swiper-slide">
+						<img src="images/task2_img/轮播图06.png" alt="显示轮播图片6"/></div>
+			    </div>
+			<div class="swiper-button-next" tabindex="0" role="button" aria-label="Next slide" aria-disabled="false"></div>
+			<div class="swiper-button-prev swiper-button-disabled" tabindex="0" role="button" aria-label="Previous slide" aria-disabled="true"></div>
+			<span class="swiper-notification" aria-live="assertive" aria-atomic="true"></span>
+			</div>
+			<script src="swiper-4.4.6/dist/js/swiper.min.js"></script>
+    </div>
+    <div class="container">
+    <div class="message">
+    	<img src="images/task2_img/message.png" alt="显示重要的通知信息">
+    <div class="message-text">
+    	<marquee direction="up">
+    		<p>通知:此处调整为滚动的形式!!!</p>
+    	</marquee>
+    </div>
+    </div>
+    </div>
+    <hr style="width:750px;height:4px;color:#e8e6e6;">
+    <div class="schedule container">
+    	<img src="images/task2_img/bag-bg.png" alt="显示图标的地方" class="schedule-img1">
+    	<img src="images/task2_img/bag.png" alt="显示日历图标的地方" class="schedule-img2">
+    	<ul class="schedule-text">
+    		<li><a href="#">2018年10月23日</a></li>
+    		<li><a href="#">2018年10月24日</a></li>
+    		<li><a href="#">2018年10月24日</a></li>
+    	</ul>
+    	<a href="#"><img src="images/task2_img/right-gray.png" alt="显示右边的灰色效果图" class="schedule-img3"></a>
+    </div>
+    <div class="panel-border container">
+    	<table class="panel container">
+    		<tr class="panel-img">
+    			<td><img src="images/task2_img/二维码.png" alt="显示二维码图标"></td>
+    			<td><img src="images/task2_img/蓝牙.png" alt="显示蓝牙图标"></td>
+    			<td><img src="images/task2_img/用户管理.png" alt="显示用户管理图标"></td>
+    			<td><img src="images/task2_img/日志.png" alt="显示日志图标"></td>
+    		</tr>
+    		<tr class="panel-text">
+    			<td>二维码</td>
+    			<td>蓝牙</td>
+    			<td>用户管理</td>
+    			<td>日志</td>
+    		</tr>
+    		<tr class="panel-img">
+    			<td><img src="images/task2_img/波形图.png" alt="显示波形图图标"></td>
+    			<td><img src="images/task2_img/极性分布图.png" alt="显示极性分布图图标"></td>
+    			<td><img src="images/task2_img/报告.png" alt="显示报告图标"></td>
+    			<td><img src="images/task2_img/新闻.png" alt="显示新闻图标"></td>
+    		</tr>
+    		<tr class="panel-text">
+    			<td>波形图</td>
+    			<td>极性分布图</td>
+    			<td>报告</td>
+    			<td>新闻</td>
+    		</tr>
+    	</table>
+    </div>
+    	<hr style="width:750px;height:1px;color:#b5b5b5;">
+    <div class="container">
+    	<ul class="public-fooder">
+    	    <li>
+    		    <a href="#">
+    			<img src="images/task2_img/首页.png" alt="显示首页图标" class="fooder-img"></a></li>
+    	    <li>
+    		    <a href="#">
+    			<img src="images/task2_img/管理.png" alt="显示管理图标" class="fooder-img"></a></li>
+            <li>
+        	    <a href="#">
+        		<img src="images/task2_img/记录.png" alt="显示记录图标" class="fooder-img"></a></li>
+            <li>
+        	    <a href="#">
+        		<img src="images/task2_img/消息.png" alt="显示消息图标" class="fooder-img"></a></li>
+            <li>
+        	    <a href="#">
+        		<img src="images/task2_img/我的.png" alt="显示我的图标" class="fooder-img"></a></li>
+        </ul>    	
+    </div>
+
+    <script>
+		  var swiper = new Swiper('.swiper-container', {
+		    navigation: {
+		      nextEl: '.swiper-button-next',
+		      prevEl: '.swiper-button-prev',
+		    },
+		  });
+		  </script>
+			
+		  <script>        
+		var mySwiper = new Swiper ('.swiper-container', {
+			  initialSlide :0,
+		    direction: 'horizontal', // 垂直切换选项
+			  speed:30,
+			  freeMode : false,
+			  mousewheel: false,
+		    loop: true, // 循环模式选项
+		})        
+		</script>
+</body>
+</html>
