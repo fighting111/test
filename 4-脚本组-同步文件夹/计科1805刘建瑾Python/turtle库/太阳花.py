@@ -1,4 +1,11 @@
-Python 3.7.1 (v3.7.1:260ec2c36a, Oct 20 2018, 00:48:40) 
-[GCC 4.2.1 (Apple Inc. build 5666) (dot 3)] on darwin
-Type "help", "copyright", "credits" or "license()" for more information.
->>> 
+# coding=utf-8
+import turtle
+turtle.color("red", "yellow")
+ 
+turtle.begin_fill()
+for _ in range(50):#缩进 尖尖数量
+    turtle.forward(200)
+    turtle.left(170)#角度
+turtle.end_fill()
+ 
+turtle.mainloop()
