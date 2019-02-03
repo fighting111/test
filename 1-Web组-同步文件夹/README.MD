@@ -1,7 +1,7 @@
 [请养成看项目前先阅读README.MD的习惯](https://github.com/Search-For/test)
 ### 公告 Web组成员查看任务时先查看上级里的[*文档目录*](https://github.com/Search-For/test/tree/master/Documents%20%20(%E6%96%87%E6%A1%A3%20%E6%8F%90%E4%BA%A4%E5%89%8D%E5%BF%85%E8%AF%BB!))
 
-Web组文件结构说明
+###### Web组文件结构说明(*部分md编辑器不支持GFM格式,请在Github上查看*)
 
 ```markdown
 ├───2019.1.23-进阶任务  
